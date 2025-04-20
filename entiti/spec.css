@@ -1,0 +1,559 @@
+.topi,
+.find {
+	position: absolute;
+	padding-right: 10px;
+	vertical-align: middle;
+	box-sizing: border-box
+}
+
+
+.jane {
+ 
+
+   
+}
+
+.eldery {
+    font-size: 1em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica,Arial,sans-serif;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-image: url(../entiti/payon.jpg);
+    background-position: top;
+        margin-top: 63px;
+	
+}
+
+.yaua {
+    font-size: 1em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica,Arial,sans-serif;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-image: url(../entiti/oreka.jpg);
+    background-position: top;
+    margin-top: -62px;
+	
+}
+
+
+.diam {
+    font-size: 1em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica,Arial,sans-serif;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-image: url(../entiti/aju.jpg);
+    background-position: top;
+    margin-top: -62px;
+	
+}
+
+
+.shurt { 
+    background-image: url(../entiti/minihd.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #d71e2b;
+    border-bottom: 3px solid #fcc60a !important;
+    height: 56px !important;
+	position: fixed !important;
+	top: 0 !important;
+}
+ 
+ 
+ 
+
+.felon { 
+    background-image: url(../entiti/crack.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ded { 
+    background-image: url(data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMtaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6NTY6MjcgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MDkzRjI0NzlGRjVEMTFFMUJFRjZFRjM1OEI1NTBBRjYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MDkzRjI0N0FGRjVEMTFFMUJFRjZFRjM1OEI1NTBBRjYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowOTNGMjQ3N0ZGNUQxMUUxQkVGNkVGMzU4QjU1MEFGNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDowOTNGMjQ3OEZGNUQxMUUxQkVGNkVGMzU4QjU1MEFGNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pv/uAA5BZG9iZQBkwAAAAAH/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQECAgICAgICAgICAgMDAwMDAwMDAwMBAQEBAQEBAgEBAgICAQICAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA//AABEIADwACQMBEQACEQEDEQH/xACCAAACAgMBAAAAAAAAAAAAAAAABAUGAQMHCgEBAQEBAAAAAAAAAAAAAAAAAAIBAxAAAQIEAgUFEQEAAAAAAAAAAQIDABETBBIF8CFiFBWh4SJWGDFhkTKS0uIjYyQ1ldUGF2coqBEBAQABBAMBAAAAAAAAAAAAABEB8CFhcUESIyL/2gAMAwEAAhEDEQA/APfrj00MV6s3GPTQw9TdqjLlohcgjAQC9Xa5OaJuqCrtcnNC6ohBdg4QleLHMtK7iXAnWpokywuiR1HXq7xERelM737K58n04XoVNV4oKeS6iam8Dl/bM1CoNqURb5rl+vEUzbJWkTUCkyJWnpxWzPJfibPWyx8OV+dCkyrKLoYbcsOLtW03BtstuLgFbuQ5ouSXvt7NmW1AcPueihqaygkoShYO7LVFXMGqma9Tsq+a2n0yFwTDhV12l6uZ712V/ho4zV/N26cPpuy4hU9zqUcXj+upbEdvlqoxb4Q/9K/of/Tsb81frh//2Q==);
+    background-repeat: repeat;
+    background-position: center;
+	background-color: #44464A;
+}
+.food { 
+    background-image: url(../entiti/footme.jpg);
+    background-repeat: no-repeat;
+}
+  
+.cole {
+	   display: flex;              /* establish flex container */
+    flex-direction: column;     /* stack flex items vertically */
+    justify-content: center;    /* center items vertically, in this case */
+    align-items: center;        /* center items horizontally, in this case */
+    height: auto;
+    border: 1px solid black;
+	
+}
+ 
+.abudhabi {
+    position: absolute;
+    margin-top: 503px;
+    border-radius: 5px;
+    width: 534px;
+    background: white;
+    height: auto;
+    padding-bottom: 37px;
+    padding-top: 19px;
+    padding-left: 30px;
+    padding-right: 30px;
+	border: 0;
+}
+
+.topi {
+    position: relative;
+    z-index: 1;
+    margin-top: 101px;
+    box-shadow: none;
+    height: 45px;
+    font-size: 15px;
+    line-height: 1.29412;
+    font-weight: 400;
+    letter-spacing: -.021em;
+    font-family: arial;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #333;
+    text-align: left;
+    background: transparent;
+      margin-left: 54px; width: 428px;
+
+    border-radius: 2px;
+    border: solid 1px #d0d1d6 !important;
+}
+
+
+.topi2 {
+    width: 420px;
+    position: relative;
+    z-index: 1;
+    margin-top: 7px;
+    box-shadow: none;
+    height: 42px;
+    line-height: 1.29412;
+    font-weight: 400;
+    letter-spacing: -.021em;
+    font-family: SF Pro Display, SF Pro Icons,Arial,sans-serif;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #333;
+    text-align: left;
+    background: #fff;
+    font-size: 18px;
+    border: solid 1px #A3A3A3 !important;
+    margin-bottom: 13px;
+    border-radius: 4px !important;
+	font-size: 16px;
+	margin-left: 2px;
+		outline: 0!important;
+	font-size: 15px;
+	border: solid 1px;
+}
+ 
+::placeholder {
+	font-weight: 500;
+	color: #494949;
+	opacity: 0.5;
+	font-size: 15px;
+}
+
+.sinput:focus{
+
+outline: 0!important;
+	border: solid 1px #ccc;
+}
+
+ 
+
+.sinput:invalid{
+
+outline: 0!important;
+border: solid 0;
+	
+}
+
+select:focus {
+ outline: 0; 
+
+} 
+.button:focus {
+ outline: 0; 
+
+} 
+
+.eyes:focus {
+ outline: 0;
+ border:0;
+
+} 
+
+select:invalid { 
+outline: 0;
+} 
+.money {
+margin-top: 79px;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    border: 0;
+    background: transparent;
+    width: 360px;
+    height: 44px;
+    overflow-x: auto;
+    font-weight: 700;
+    float: left;
+    margin-left: 48px;
+}
+
+.spend {
+margin-top: 13px;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    border: 0;
+    background: transparent;
+    width: 81px;
+    height: 36px;
+    overflow-x: auto;
+    font-weight: 700;
+    float: right;
+    margin-right: 32px;
+}
+
+.gave {
+    margin-top: -8px;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    border: 0;
+    background: transparent;
+    width: 84px;
+    height: 36px;
+    overflow-x: auto;
+    font-weight: 700;
+    float: right;
+    margin-right: 41px;
+}
+
+.left{
+  float:left;
+}
+
+.clear{
+  clear:both;
+}
+
+body, html {
+  height: 100%;
+}
+
+.box{
+  float: left;
+    overflow: hidden;
+    background: #fffffff5;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    }
+    /* Add padding and border to inner content
+    for better animation effect */
+     
+	 
+div, span, button{
+font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}	
+
+.hig {
+position: relative;
+    text-align: center;
+    background-color: #ffffff;
+    
+    background-image: url(../entiti/allvera.png);
+	
+    font-size: 1em;
+    background-repeat: no-repeat;
+    
+    overflow-x: hidden;
+    background-position: center;
+    margin-top: 0;
+    z-index: 9; 
+}
+
+.brasi {
+position: relative;
+    text-align: center;
+    background-color: #ffffff; 
+    background-image: url(../entiti/2login.png);
+	background-size: 368px 567px;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    background-position: inherit;
+    margin-top: 0;
+    z-index: 9;
+    border-bottom: solid 3px #fff;
+}
+
+.canni {
+position: relative;
+    text-align: center;
+    background-color: #ffffff; 
+    background-image: url(../entiti/3login.png);
+	background-size: 368px 516px;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    background-position: inherit;
+    margin-top: 0;
+    z-index: 9;
+    border-bottom: solid 3px #fff;
+}
+
+.moon {
+position: relative;
+    text-align: center;
+    background-color: #ffffff;
+    height: 50px;
+    background-image: url(../entiti/moon1.png);
+	background-size: 368px 50px;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    width: 100%;
+    overflow-x: hidden;
+    background-position: center;
+    margin-top: 0;
+    z-index: 9;
+    border-bottom: solid 3px #fff;
+}
+
+.sun {
+position: relative;
+    text-align: center;
+    background-color: #ffffff;
+    height: 71px;
+    background-image: url(../entiti/moon2.png);
+	background-size: 368px 71px;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    width: 100%;
+    overflow-x: hidden;
+    background-position: center;
+    margin-top: 0;
+    z-index: 9;
+    border-bottom: solid 3px #fff;
+}
+
+.jpui.progress.rectangles li {
+    width: 100%;
+    height: .25rem;
+    background-color: #d8d8d8;
+    border-radius: .0625rem;
+    margin-right: .75rem;
+    border: .0625rem solid blue;
+}
+
+input[type="date"]:not(.has-value):before{
+  
+  	opacity: .7;
+	font-family: roboto;
+	color: #000;
+	font-size: 1rem;
+	font-weight: 700;
+  content: attr(placeholder);
+}
+
+
+span {
+ 
+    
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+
+.displayContainer { 
+    display: block; 
+    width: 100%;
+}
+.bottomFlex {
+    align-self: flex-end;
+}
+.centerFlex {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} 
+
+
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffd54f;
+}
+
+.container {
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+}
+
+li span {
+  display: block;
+  font-size: 4.5rem;
+}
+
+
+
+/* Popup container */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+i{
+	color: #0092bc;
+	padding-right: 5px;
+}
+
+
+
+.lol{
+	text-shadow: 0 0 30px rgba(0,0,0,.5);
+    color: #fff;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+    letter-spacing: 0;
+    font-family: SF Pro Display,SF Pro Icons,sans-serif;
+}
+
+
+
+
+
+input[type=submit].ninja-forms-field {
+   background-color: transparent;
+   border: 0;
+   color: transparent;
+   width: 26px;
+   height: 27px;
+   background-image: url('../entiti/testgr.png');
+   cursor: pointer;
+    background-repeat: no-repeat;
+}
+
+.lock {margin-left: 139px;}
+
+.run {margin-left: 195px;}
+
+
+@media only screen and (max-device-width: 780px)
+{
+	.got{    width: auto !important;}
+	
+	.lock {margin-left: -59px !important;}
+	
+	.run {margin-left: 0 !important;}
+}

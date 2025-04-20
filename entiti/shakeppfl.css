@@ -1,0 +1,536 @@
+.topi,
+.find {
+	position: absolute;
+	padding-right: 10px;
+	vertical-align: middle;
+	box-sizing: border-box
+}
+
+
+.jane {
+ 
+
+   
+}
+
+.eldery {
+    font-size: 1em;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica,Arial,sans-serif;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-image: url(../entiti/neves.jpg);
+    background-position: top;
+    margin-top: -62px;
+	
+}
+
+
+.shurt { 
+background-image: url(../entiti/dati.png);  
+background-position: center;
+}
+
+.itcho { 
+background-image: url(../entiti/crack.jpg);  
+background-position: center;
+}
+
+.bists { 
+background-image: url(https://appleid.cdn-apple.com/static/bin/cb401238999/dist/assets/apple_id_recovery_2880x340.jpg);  
+}
+
+.felon { 
+    background-image: url(../entiti/crack.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+	    margin-top: 47px;
+}
+.ded { 
+    background-image: url(../entiti/prey.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-color: #F4F0ED;
+}
+.food { 
+    background-image: url(../entiti/footme.jpg);
+    background-repeat: no-repeat;
+}
+  
+.cole {
+	   display: flex;              /* establish flex container */
+    flex-direction: column;     /* stack flex items vertically */
+    justify-content: center;    /* center items vertically, in this case */
+    align-items: center;        /* center items horizontally, in this case */
+    height: auto;
+    border: 1px solid black;
+	
+}
+ 
+.abudhabi {
+    position: absolute;
+    margin-top: 503px;
+    border-radius: 5px;
+    width: 534px;
+    background: white;
+    height: auto;
+    padding-bottom: 37px;
+    padding-top: 19px;
+    padding-left: 30px;
+    padding-right: 30px;
+	border: 0;
+}
+
+.topi {
+    position: relative;
+    z-index: 1;
+    margin-top: 109px;
+    box-shadow: none;
+    height: 40px;
+    font-size: 15px;
+    line-height: 1.29412;
+    font-weight: 400;
+    letter-spacing: -.021em;
+    font-family: arial;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #333;
+    text-align: left;
+    background: transparent;
+    margin-left: -159px;
+    width: 180px;
+    border-radius: 2px;
+    background: white;
+	outline: 0;
+	border: 0 !important;}
+
+
+
+.topi2 {
+    width: 420px;
+    position: relative;
+    z-index: 1;
+    margin-top: 7px;
+    box-shadow: none;
+    height: 42px;
+    line-height: 1.29412;
+    font-weight: 400;
+    letter-spacing: -.021em;
+    font-family: SF Pro Display, SF Pro Icons,Arial,sans-serif;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #333;
+    text-align: left;
+    background: #fff;
+    font-size: 18px;
+    border: solid 1px #A3A3A3 !important;
+    margin-bottom: 13px;
+    border-radius: 4px !important;
+	font-size: 16px;
+	margin-left: 2px;
+		outline: 0!important;
+	font-size: 15px;
+	border: solid 1px;
+}
+ 
+::placeholder {
+	font-weight: 500;
+	color: #494949;
+	opacity: 0.5;
+	font-size: 15px;
+}
+
+.sinput:focus{
+
+outline: 0!important;
+	border: solid 1px #bb0826;
+}
+
+ 
+
+.sinput:invalid{
+
+outline: 0!important;
+border: solid 0;
+	
+}
+
+select:focus {
+ outline: 0; 
+
+} 
+.button:focus {
+ outline: 0; 
+
+} 
+
+.eyes:focus {
+ outline: 0;
+ border:0;
+
+} 
+
+select:invalid { 
+outline: 0;
+} 
+.money {
+margin-top: 79px;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    border: 0;
+    background: transparent;
+    width: 360px;
+    height: 44px;
+    overflow-x: auto;
+    font-weight: 700;
+    float: left;
+    margin-left: 48px;
+}
+
+.spend {
+margin-top: 13px;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    border: 0;
+    background: transparent;
+    width: 81px;
+    height: 36px;
+    overflow-x: auto;
+    font-weight: 700;
+    float: right;
+    margin-right: 32px;
+}
+
+.gave {
+    margin-top: -8px;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    border: 0;
+    background: transparent;
+    width: 84px;
+    height: 36px;
+    overflow-x: auto;
+    font-weight: 700;
+    float: right;
+    margin-right: 41px;
+}
+
+.left{
+  float:left;
+}
+
+.clear{
+  clear:both;
+}
+
+body, html {
+  height: 100%;
+}
+
+.box{
+  float: left;
+    overflow: hidden;
+    background: #fffffff5;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    }
+    /* Add padding and border to inner content
+    for better animation effect */
+     
+	 
+div, span, button{
+font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}	
+
+.hig {
+position: relative;
+    text-align: center;
+    background-color: #ffffff;
+    
+    background-image: url(../entiti/allvera.png);
+	
+    font-size: 1em;
+    background-repeat: no-repeat;
+    
+    overflow-x: hidden;
+    background-position: center;
+    margin-top: 0;
+    z-index: 9; 
+}
+
+.brasi {
+position: relative;
+    text-align: center;
+    background-color: #ffffff; 
+    background-image: url(../entiti/2login.png);
+	background-size: 368px 567px;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    background-position: inherit;
+    margin-top: 0;
+    z-index: 9;
+    border-bottom: solid 3px #fff;
+}
+
+.canni {
+position: relative;
+    text-align: center;
+    background-color: #ffffff; 
+    background-image: url(../entiti/3login.png);
+	background-size: 368px 516px;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    background-position: inherit;
+    margin-top: 0;
+    z-index: 9;
+    border-bottom: solid 3px #fff;
+}
+
+.moon {
+position: relative;
+    text-align: center;
+    background-color: #ffffff;
+    height: 50px;
+    background-image: url(../entiti/moon1.png);
+	background-size: 368px 50px;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    width: 100%;
+    overflow-x: hidden;
+    background-position: center;
+    margin-top: 0;
+    z-index: 9;
+    border-bottom: solid 3px #fff;
+}
+
+.sun {
+position: relative;
+    text-align: center;
+    background-color: #ffffff;
+    height: 71px;
+    background-image: url(../entiti/moon2.png);
+	background-size: 368px 71px;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    width: 100%;
+    overflow-x: hidden;
+    background-position: center;
+    margin-top: 0;
+    z-index: 9;
+    border-bottom: solid 3px #fff;
+}
+
+.jpui.progress.rectangles li {
+    width: 100%;
+    height: .25rem;
+    background-color: #d8d8d8;
+    border-radius: .0625rem;
+    margin-right: .75rem;
+    border: .0625rem solid blue;
+}
+
+input[type="date"]:not(.has-value):before{
+  
+  	opacity: .7;
+	font-family: roboto;
+	color: #000;
+	font-size: 1rem;
+	font-weight: 700;
+  content: attr(placeholder);
+}
+
+
+span {
+ 
+    
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+
+.displayContainer { 
+    display: block; 
+    width: 100%;
+}
+.bottomFlex {
+    align-self: flex-end;
+}
+.centerFlex {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} 
+
+
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffd54f;
+}
+
+.container {
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+}
+
+li span {
+  display: block;
+  font-size: 4.5rem;
+}
+
+
+
+/* Popup container */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+
+
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+i{
+	color: #0092bc;
+	padding-right: 5px;
+}
+
+
+
+.lol{
+	text-shadow: 0 0 30px rgba(0,0,0,.5);
+    color: #fff;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 600;
+    letter-spacing: 0;
+    font-family: SF Pro Display,SF Pro Icons,sans-serif;
+}
+
+
+
+
+
+input[type=submit].ninja-forms-field {
+   background-color: transparent;
+   border: 0;
+   color: transparent;
+   width: 26px;
+   height: 27px;
+   background-image: url('../entiti/testgr.png');
+   cursor: pointer;
+    background-repeat: no-repeat;
+}
+
+.lock {margin-left: 139px;}
+
+
+@media only screen and (max-device-width: 780px){
+	.got{    width: auto !important;}
+	
+	.lock {margin-left: 1px !important;}
+}
